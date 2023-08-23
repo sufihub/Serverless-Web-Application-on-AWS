@@ -16,3 +16,5 @@ Additionally, you will have experience working with AWS services and integrating
 
 This project will help you improve your skills in cloud computing, serverless architecture, and AWS services.
 # Link to the documentation:
+# https://drive.google.com/drive/folders/1B77fThSitlYczRbDsbGy7SyHP62dGYzh?hl=en_GB
+# Follow our Linkedin. https://www.linkedin.com/in/shaikh-sufiyan-a038b5199/
