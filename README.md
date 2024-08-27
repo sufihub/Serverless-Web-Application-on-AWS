@@ -1,5 +1,7 @@
 # Serverless-Web-Application-on-AWS
 # Project Name: Serverless Web Application on AWS:
+# Project Overview:
+This serverless web application allows users to sign up, log in, and manage their tasks. It provides a responsive web interface where users can add, edit, view, and delete tasks. The backend is powered by AWS services, ensuring that the application is fully scalable, highly available, and requires minimal maintenance.
 # Project Description:
 In this project, you will build a serverless web application using AWS Lambda, DynamoDB, and S3. The application will allow users to create, read, update, and delete (CRUD) items from a DynamoDB table.
 # Project Architecture:
